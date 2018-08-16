@@ -1,0 +1,7 @@
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\bin\Debug\TareaEnemy.exe.config
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\bin\Debug\TareaEnemy.exe
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\bin\Debug\TareaEnemy.pdb
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\obj\Debug\TareaEnemy.csprojResolveAssemblyReference.cache
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\obj\Debug\TareaEnemy.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\obj\Debug\TareaEnemy.exe
+C:\Users\santi\source\repos\TareaEnemy\TareaEnemy\obj\Debug\TareaEnemy.pdb
